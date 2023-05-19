@@ -43,7 +43,7 @@ Prerequisites:-
 
 Django Web Framework
 
-Python 3.0x
+Python 3.x
 
 Installation:-
 
